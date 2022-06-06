@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Przemyslaw a Junior Java Developer
+- 👋 Hi, I’m Przemyslaw a Java Developer
 - 👀 I’m interested in joining projects written in Java, which would include a job for a beginner programmer
 - 💞️ My experience can show my public repositories on GitHub e.g.:
 - Games:  
