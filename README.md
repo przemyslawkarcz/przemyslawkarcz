@@ -9,7 +9,8 @@
 -   https://github.com/przemyslawkarcz/Password-strength.git
 -   https://github.com/przemyslawkarcz/Password-Generator.git
 -   https://github.com/przemyslawkarcz/Text-Statistics.git
-- OOP & and databases: 
+- Simulators:
+-   https://github.com/przemyslawkarcz/Banking-application---simple-simulation.git
 -   https://github.com/przemyslawkarcz/Apartment-Creator-Java.git
 -   https://github.com/przemyslawkarcz/Apartment-Creator-Hibernate.git
 - 📫 How to reach me: by GitHub
